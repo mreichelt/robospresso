@@ -10,6 +10,7 @@
     tools:context="de.marcreichelt.robospresso.UnicornActivity">
 
     <TextView
+        android:id="@+id/unicorns"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/unicorns" />
